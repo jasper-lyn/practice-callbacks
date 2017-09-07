@@ -39,7 +39,7 @@ console.log(lengthOfWords)
 console.log(upperCaseWords)
 console.log(reverseWords)
 
-console.log(lengthOfWords.toString() + '\n' + 'other string')
+//console.log(lengthOfWords.toString() + '\n' + 'rest of functions here')
 
 
 //console.log(`${lengthOfWords}
